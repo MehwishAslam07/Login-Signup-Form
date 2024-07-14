@@ -1,0 +1,25 @@
+.img1 {
+    width: 40% !important;
+}
+.signwrap {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+}
+.formwrap{
+    padding: 0 60px 0 0;
+}
+.sign{
+
+    background-color: black;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    box-shadow: 10px 20px 30px 10px #ffffff12;
+    border-radius: 10px;
+    padding: 30px 50px;
+}
